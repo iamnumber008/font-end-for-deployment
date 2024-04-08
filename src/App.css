@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Montserrat:wght@700;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@600&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto Mono', monospace;
+  scroll-behavior: smooth;
+}
+
+.cardHighlight {
+  min-height: 100%;
+}
+
+.picSize {
+  height: 50%;
+  width: 100%;
+}
+
+.logo {
+
+  font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.page {
+  font-family: 'Kanit', sans-serif;
+}
+
+.shadow {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+.loginContainer {
+  height: 200 px;
+}
+
+.bannerContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.productCardSize {
+  width: 30rem;
+}
+
+.formSize {
+  width: 50%;
+}
+
+.iconSize {
+  height: 30px;
+  width: 30px;
+}
+
+.greatest {
+  font-family: 'Anton', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-size: 500 px;
+}
